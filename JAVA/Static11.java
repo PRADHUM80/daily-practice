@@ -17,6 +17,7 @@ public class Static11 {
 
     public static void main(String[] args) {
         show();
+        
     }
 }
 
