@@ -1,3 +1,10 @@
+// Aggregation means weak relationship.
+// Child object can exist without parent object.
+//  Example (Real life):
+//     .Teacher and Department
+//     .Library and Books
+
+
 package JAVA;
 class Address {
     String city;
